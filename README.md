@@ -1,26 +1,26 @@
-# ¡Hola! Soy Miguel Moisés Valdez Avila 👋
+# Hi there! I'm Miguel Moisés Valdez Avila 👋
 
-Ingeniero de Software y Desarrollador Fullstack enfocado en la **transición hacia arquitecturas Cloud y prácticas DevOps**. Me apasiona la automatización de procesos, la cultura GitOps y el diseño de infraestructura declarativa moderna, eficiente y de alta disponibilidad.
-
----
-
-### 🚀 Mi Perfil Técnico
-
-- 🎛️ **Arquitectura & Desarrollo:** Experiencia sólida construyendo aplicaciones dinámicas y escalables (Monolitos y APIs RESTful) optimizando el rendimiento del backend y la persistencia de datos.
-- 🏗️ **Automatización & GitOps:** Especializándome en la entrega continua mediante la creación de manifiestos y pipelines avanzados para la orquestación de contenedores en entornos empresariales.
-- 🎯 **Próximos Hitos:** Consolidando mi camino de certificación en AWS (Solutions Architect & SysOps Administrator) y expandiendo mis horizontes profesionales hacia el mercado europeo.
-- 🗣️ **Idiomas:** Español (Nativo) | Inglés Intermedio-Avanzado (B2) | Estudiando Alemán activamente 🇩🇪
+Software Engineer and Fullstack Developer pivoting toward **Cloud Architectures and DevOps practices**. Passionate about process automation, GitOps culture, and designing modern, efficient, and highly available declarative infrastructure.
 
 ---
 
-### 🛠️ Tecnologías & Ecosistema
+### 🚀 Technical Profile
 
-- **Backend & Frameworks:** PHP (Laravel, MVC nativo), Kotlin, Android Engine
-- **Frontend & UI:** React.js, Blade, HTML5 / CSS3 Avanzado
-- **Cloud & Infraestructura (Enfoque Actual):** AWS Ecosystem, Linux (Ubuntu/Debian), Docker Containers, Kubernetes Cluster Management, OpenShift & GitOps Enterprise Delivery
+- 🎛️ **Architecture & Development:** Solid experience building dynamic and scalable applications (Monoliths and RESTful APIs), optimizing backend performance and data persistence.
+- 🏗️ **Automation & GitOps:** Specializing in Continuous Delivery through the creation of advanced manifests and pipelines for container orchestration in enterprise-grade environments.
+- 🎯 **Next Milestones:** Consolidating my certification path in AWS (Solutions Architect & SysOps Administrator) and expanding my professional horizons toward the European market.
+- 🗣️ **Languages:** Spanish (Native) | Intermediate-Advanced English (B2) | Actively learning German 🇩🇪
 
 ---
 
-### 📬 Contacto & Colaboraciones
+### 🛠️ Tech Stack & Ecosystem
 
-- 💼 [Mi Perfil de LinkedIn](https://linkedin.com/in/miguel-moises-valdez-avila-35b746244)
+- **Backend & Frameworks:** PHP (Laravel, Native MVC), Kotlin, Android Engine
+- **Frontend & UI:** React.js, Blade, Advanced HTML5 / CSS3
+- **Cloud & Infrastructure (Current Focus):** AWS Ecosystem, Linux (Ubuntu/Debian), Docker Containers, Kubernetes Cluster Management, OpenShift & GitOps Enterprise Delivery
+
+---
+
+### 📬 Connect with Me
+
+- 💼 [My LinkedIn Profile](https://linkedin.com/in/miguel-moises-valdez-avila-35b746244)
