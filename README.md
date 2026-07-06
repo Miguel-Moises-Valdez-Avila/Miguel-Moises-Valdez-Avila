@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! Soy Miguel Moisés Valdez Avila 👋
 
-<!--
-**Miguel-Moises-Valdez-Avila/Miguel-Moises-Valdez-Avila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero de Software y Desarrollador Fullstack enfocado en la **transición hacia arquitecturas Cloud y prácticas DevOps**. Me apasiona la automatización de procesos, la cultura GitOps y el diseño de infraestructura declarativa moderna, eficiente y de alta disponibilidad.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mi Perfil Técnico
+
+- 🎛️ **Arquitectura & Desarrollo:** Experiencia sólida construyendo aplicaciones dinámicas y escalables (Monolitos y APIs RESTful) optimizando el rendimiento del backend y la persistencia de datos.
+- 🏗️ **Automatización & GitOps:** Especializándome en la entrega continua mediante la creación de manifiestos y pipelines avanzados para la orquestación de contenedores en entornos empresariales.
+- 🎯 **Próximos Hitos:** Consolidando mi camino de certificación en AWS (Solutions Architect & SysOps Administrator) y expandiendo mis horizontes profesionales hacia el mercado europeo.
+- 🗣️ **Idiomas:** Español (Nativo) | Inglés Intermedio-Avanzado (B2) | Estudiando Alemán activamente 🇩🇪
+
+---
+
+### 🛠️ Tecnologías & Ecosistema
+
+- **Backend & Frameworks:** PHP (Laravel, MVC nativo), Kotlin, Android Engine
+- **Frontend & UI:** React.js, Blade, HTML5 / CSS3 Avanzado
+- **Cloud & Infraestructura (Enfoque Actual):** AWS Ecosystem, Linux (Ubuntu/Debian), Docker Containers, Kubernetes Cluster Management, OpenShift & GitOps Enterprise Delivery
+
+---
+
+### 📬 Contacto & Colaboraciones
+
+- 💼 [Mi Perfil de LinkedIn](https://linkedin.com/in/miguel-moises-valdez-avila-35b746244)
